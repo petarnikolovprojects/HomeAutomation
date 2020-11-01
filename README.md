@@ -17,7 +17,8 @@ Microservice design containing:
 - Communication broker - RabbitMQ
 - 4 additional microservices related to data/commands processing 
 - 13 microservices to run on the end point devices 
-Architecture design is [here](https://github.com/petarnikolovprojects/vehicles_pedestrian_tracking) and the services description is [here](https://github.com/petarnikolovprojects/HomeAutomation/blob/master/Karoli_services_description.txt)
+<br/>
+Architecture design is [here](https://github.com/petarnikolovprojects/HomeAutomation/blob/master/ArchitectureDiagram.pdf) and the services description is [here](https://github.com/petarnikolovprojects/HomeAutomation/blob/master/Karoli_services_description.txt)
 
 
 ### Technologies used:
