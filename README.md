@@ -20,11 +20,11 @@ Microservice design containing:
 <br/>
 Architecture design is 
 <br/>
-[here](./ArchitectureDiagram.pdf) 
+[here](ArchitectureDiagram.pdf) 
 <br/>
 and the services description is 
 <br/>
-[here](./Karoli_services_description.txt)
+[here](Karoli_services_description.txt)
 <br/>
 
 ### Technologies used:
