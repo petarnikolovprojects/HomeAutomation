@@ -18,7 +18,7 @@ Microservice design containing:
 - 4 additional microservices related to data/commands processing 
 - 13 microservices to run on the end point devices 
 <br/>
-Architecture design is [here](./ArchitectureDiagram.pdf)
+Architecture design is [here](./ArchitectureDiagram.pdf) 
 and the services description is [here](./Karoli_services_description.txt)
 
 
