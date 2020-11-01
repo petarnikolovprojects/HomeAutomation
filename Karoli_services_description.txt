@@ -1,0 +1,32 @@
+Karolina services:
+......................
+
+Devices services:
+KIRC - IR Controller  
+KRC  - Radio Controller
+KWD  - Water Detection
+KSD  - Smoke Detection
+KMD  - Motion Detection
+KPC  - Phone call
+KSR  - Sound Recorder
+KVS  - Video Streammer
+KML  - Machine Learning
+KMLA - Machine Learning Advanced
+KPUC - Power Unit Controller
+KMC  - Mobile Controller
+KSS  - Sound system
+
+
+Server services:
+KNLP - Natural language processing
+KCP  - Commands Processor
+KCM  - Communication Module
+KDP  - Data Processing
+KLDB - Logging & DB
+
+
+
+1. Each service will have 5 second heartbeat activity using RabbitMQ
+2. The only necessery component to bring up the system is KCM
+3. The components needed for a minimum working Karolina are: KCP, KCM, RabbitMQ + atleast one of Device services
+4. KVS service - may be used as an input to KMD, KML, KMLA services and may be started by them.
