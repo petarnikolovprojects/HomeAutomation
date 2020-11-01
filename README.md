@@ -17,15 +17,9 @@ Microservice design containing:
 - Communication broker - RabbitMQ
 - 4 additional microservices related to data/commands processing 
 - 13 microservices to run on the end point devices 
-<br/>
-Architecture design is 
-<br/>
-[here](ArchitectureDiagram.pdf) 
-<br/>
-and the services description is 
-<br/>
-[here](Karoli_services_description.txt)
-<br/>
+
+Architecture design is [here](ArchitectureDiagram.pdf) and the services description is [here](Karoli_services_description.txt)
+
 
 ### Technologies used:
 - Languages
